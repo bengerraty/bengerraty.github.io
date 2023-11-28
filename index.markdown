@@ -5,4 +5,9 @@
 layout: home
 ---
 
-Hello
+My Masters thesis can be found [here](/msc-thesis.pdf)
+
+
+## Talks
+- *30/11/23* [notes](/notes/SFT1.pdf) Introduction to Statistical Field Theory
+
