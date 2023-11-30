@@ -11,4 +11,4 @@ My Masters thesis can be found [here](/msc-thesis.pdf)
 
 
 ## Talks
-- *30/11/23* [notes](/notes/SFT1-1.pdf) SFT1: Introduction and 1D Ising Model as Spin-1/2
+- *30/11/23* [notes](/notes/SFT1-2.pdf) SFT1: Introduction and 1D Ising Model as Spin-1/2
