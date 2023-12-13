@@ -1,4 +1,5 @@
 ---
-title: Teaching
+title: Notes
 layout: page
 ---
+
