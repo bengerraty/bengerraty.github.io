@@ -20,6 +20,13 @@ I am giving a series of seminars on statistical field theory.
 - *14/12/23* [notes](/notes/SFT1-3.pdf) SFT1: Introduction and 1D Ising Model to Spin-1/2 Part 2
 - *(TBD)* [notes](/notes/SFT2-1.pdf) SFT2: 2D Classical Ising Model to 1D Quantum Ising Model Part 1
 
+## Texts
+
+- R. Shankar (2017) *Quantum Field Theory and Condensed Matter: An Introduction*
+- G. Mussardo (2020) *Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics*
+- B. Hall (2013) *Quantum Theory for Mathematicans* 
+- D. Francesco + (1997) *Conformal Field Theory*
+- D. Ridout (2013) *An Introduction to Conformal Field Theory*
 
 
 
