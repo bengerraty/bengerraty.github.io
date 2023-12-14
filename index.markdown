@@ -25,8 +25,11 @@ I am giving a series of seminars on statistical field theory.
 - R. Shankar (2017) *Quantum Field Theory and Condensed Matter: An Introduction*
 - G. Mussardo (2020) *Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics*
 - B. Hall (2013) *Quantum Theory for Mathematicans* 
+- R. Volkas (2021) *PHYC90007 Quantum Mechanics*
 - D. Francesco + (1997) *Conformal Field Theory*
-- D. Ridout (2013) *An Introduction to Conformal Field Theory*
+- E. Olandini (2020) *Lecture Notes of Statistical Mechanics*
+- D. Ridout (2014) *An Introduction to Conformal Field Theory: AMSI Summer School*
+- B. Gerraty (2021) *The Structure Constants of the Minimal Models*
 
 
 
