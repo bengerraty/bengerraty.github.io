@@ -18,7 +18,9 @@ I am giving a series of seminars on statistical field theory.
 
 - *30/11/23* [notes](/notes/SFT1-2.pdf) SFT1: Introduction and 1D Ising Model to Spin-1/2 Part 1
 - *14/12/23* [notes](/notes/SFT1-3.pdf) SFT1: Introduction and 1D Ising Model to Spin-1/2 Part 2
-- *(TBD)* [notes](/notes/SFT2-1.pdf) SFT2: 2D Classical Ising Model to 1D Quantum Ising Model Part 1
+- *(18/01/24)* [notes](/notes/SFT2-1.pdf) SFT2: 2D Classical Ising Model to 1D Quantum Ising Model 
+
+
 
 ## Texts
 
