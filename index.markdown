@@ -12,9 +12,9 @@ layout: home
 
 I am a My Masters thesis can be found [here](/msc-thesis.pdf)
 
-## Talks
+# Talks
 
-# Statistical Field Theory Seminar 
+## Statistical Field Theory Seminar 
 
 I am giving a series of seminars on statistical field theory. 
 
@@ -25,7 +25,7 @@ I am giving a series of seminars on statistical field theory.
 - *(TBD)* SFT4: Conformal Field Theory of Fermions
 - *(TBD)* SFT5: The Ising Model as a Minimal Model
 
-# References
+### References
 
 - R. Shankar (2017) *Quantum Field Theory and Condensed Matter: An Introduction*
 - G. Mussardo (2020) *Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics*
