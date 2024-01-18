@@ -14,6 +14,8 @@ I am a My Masters thesis can be found [here](/msc-thesis.pdf)
 
 ## Talks
 
+# Statistical Field Theory Seminar 
+
 I am giving a series of seminars on statistical field theory. 
 
 - *30/11/23* [notes](/notes/SFT1-2.pdf) SFT1: Introduction and 1D Ising Model to Spin-1/2 Part 1
@@ -23,11 +25,7 @@ I am giving a series of seminars on statistical field theory.
 - *(TBD)* SFT4: Conformal Field Theory of Fermions
 - *(TBD)* SFT5: The Ising Model as a Minimal Model
 
-
-
-
-
-## Texts
+# References
 
 - R. Shankar (2017) *Quantum Field Theory and Condensed Matter: An Introduction*
 - G. Mussardo (2020) *Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics*
@@ -37,6 +35,4 @@ I am giving a series of seminars on statistical field theory.
 - E. Olandini (2020) *Lecture Notes of Statistical Mechanics*
 - D. Ridout (2014) *An Introduction to Conformal Field Theory: AMSI Summer School*
 - B. Gerraty (2021) *The Structure Constants of the Minimal Models*
-
-
 
