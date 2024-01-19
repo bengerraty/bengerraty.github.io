@@ -10,7 +10,7 @@
 layout: home
 ---
 
-I am a My Masters thesis can be found [here](/msc-thesis.pdf)
+I am a PhD student at the University of Melbourne, my Masters thesis can be found [here](/msc-thesis.pdf) and below is a collection of talks I've given. 
 
 # Talks
 
