@@ -26,8 +26,10 @@ I am giving a series of seminars on statistical field theory.
 - *18/01/24* [notes](/notes/SFT2-3.pdf) SFT2: 2D Classical Ising Model to 1D Quantum Ising Model 
 - *08/02/24* [notes](/notes/SFT3-4.pdf) SFT3: Path Integrals and Fermions Part 1
 - *22/02/24* [notes](/notes/SFT3-4.pdf) SFT3: Path Integrals and Fermions Part 2
-- *(TBD)* SFT4: Indroduction to Conformal Field Theory 
-- *(TBD)* SFT5: Correlation Functions of the Ising Model
+- *07/03/24* [notes](/notes/SFT3-4.pdf) SFT3: Path Integrals and Fermions Part 3
+- *(TBD)* SFT4: Introduction to Conformal Field Theory 
+- *(TBD)* SFT5: The Free Fermion and Minimal Models
+- *(TBD)* SFT6: Correlation Functions of the Ising Model 
 
 ### References
 
