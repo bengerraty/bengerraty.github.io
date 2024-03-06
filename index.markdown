@@ -26,10 +26,9 @@ I am giving a series of seminars on statistical field theory.
 - *18/01/24* [notes](/notes/SFT2-3.pdf) SFT2: 2D Classical Ising Model to 1D Quantum Ising Model 
 - *08/02/24* [notes](/notes/SFT3-4.pdf) SFT3: Path Integrals and Fermions Part 1
 - *22/02/24* [notes](/notes/SFT3-4.pdf) SFT3: Path Integrals and Fermions Part 2
-- *07/03/24* [notes](/notes/SFT3-4.pdf) SFT3: Path Integrals and Fermions Part 3
-- *(TBD)* SFT4: Introduction to Conformal Field Theory 
-- *(TBD)* SFT5: The Free Fermion and Minimal Models
-- *(TBD)* SFT6: Correlation Functions of the Ising Model 
+- *07/03/24* [notes](/notes/SFT3-5.pdf) SFT3: Path Integrals and Fermions Part 3
+- *21/03/24* SFT4: Conformal Transformations and the Virasoro Algebra 
+ 
 
 ### References
 
@@ -41,4 +40,3 @@ I am giving a series of seminars on statistical field theory.
 - E. Olandini (2020) *Lecture Notes of Statistical Mechanics*
 - D. Ridout (2014) *An Introduction to Conformal Field Theory: AMSI Summer School*
 - B. Gerraty (2021) *The Structure Constants of the Minimal Models*
-
