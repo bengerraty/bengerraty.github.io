@@ -30,7 +30,7 @@ I am giving a series of seminars on statistical field theory.
 - *21/03/24* SFT4: Conformal Transformations and the Virasoro Algebra 
  
 
-### References
+#### References
 
 - R. Shankar (2017) *Quantum Field Theory and Condensed Matter: An Introduction*
 - G. Mussardo (2020) *Statistical Field Theory: An Introduction to Exactly Solved Models in Statistical Physics*
@@ -40,3 +40,8 @@ I am giving a series of seminars on statistical field theory.
 - E. Olandini (2020) *Lecture Notes of Statistical Mechanics*
 - D. Ridout (2014) *An Introduction to Conformal Field Theory: AMSI Summer School*
 - B. Gerraty (2021) *The Structure Constants of the Minimal Models*
+
+## Other
+
+- *23/06/23* Toy Models of Superposition (Mech Interp 1) at the SLT Summit 2023
+- *27/07/23* Toy Models Appendix at the SLT Summit 2023
